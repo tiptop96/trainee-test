@@ -40,3 +40,5 @@ Gör en egen Fork av den och dela med dig av den till oss. Gör den helst privat
 
 Det finns ett antal lösningar på den här uppgiften på att hitta på GitHub men anta att om ni hittar den, så har vi hittat den. ;)
 
+Vår förväntning är att du skriver kod som du själv skulle vilja läsa och förvalta.
+
