@@ -14,7 +14,7 @@ För den första delen kommer vi att använda oss av Hacker Rank (https://www.ha
 
 1. Devis' Staircase - https://www.hackerrank.com/challenges/ctci-recursive-staircase/problem
 
-Problemen ska lösas i Java eller C#.
+Problemen ska lösas i Java eller C#. Lösningarna ska
 
 Bonus: Lös något av problemen i ett annat språk än Java och C#.
 
@@ -25,6 +25,9 @@ En yngre kollega kommer till dig med sin implementation av en Stack som du hitta
 Din uppgift är att genomföra en Code Review och ge feedback på koden. Vad skulle du ge för råd till din kollega att göra och varför?
 
 Din andra uppgift är att impementera en egen Stack. Du hittar interfacet som ska implementeras i [del2/Stack.java].
+
+
+Lösningarna på del 1 och 2 görs genom att göra en Fork på det här repot och spara dina lösningar under rätt Solution. När du är klar, skicka en Merge Request till oss.
 
 ## Del 3 - Programmeringsuppgift
 
