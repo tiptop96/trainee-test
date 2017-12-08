@@ -6,9 +6,34 @@ Testet består av 3 olika delar:
 
 ## Del 1 - Alogritmer
 
+För den första delen kommer vi att använda oss av Hacker Rank (https://www.hackerrank.com). Skapa ett konto där och lös följande uppgifter.
+
+1. Anagram - https://www.hackerrank.com/challenges/making-anagrams/problem
+
+1. The Full Counting Sort - https://www.hackerrank.com/challenges/countingsort4/problem
+
+1. Devis' Staircase - https://www.hackerrank.com/challenges/ctci-recursive-staircase/problem
+
+Problemen ska lösas i Java eller C#.
+
+Bonus: Lös något av problemen i ett annat språk än Java och C#.
+
 ## Del 2 - Kodgranskning
 
-Din uppgift i den här delen är att granska 
+En yngre kollega kommer till dig med sin implementation av en Stack som du hittar i [del2/VeryBasicStack.java].
+
+Din uppgift är att genomföra en Code Review och ge feedback på koden. Vad skulle du ge för råd till din kollega att göra och varför?
+
+Din andra uppgift är att impementera en egen Stack. Du hittar interfacet som ska implementeras i [del2/Stack.java].
 
 ## Del 3 - Programmeringsuppgift
+
+Den här delen är lite större än de första två. Den går ut på att du ska implementera ett hiss-simuleringssystem. Uppgiften, tillsammans med en djupare beskrivning och ett par hjälpklasser hittar du på:
+
+- Java: https://github.com/OneAgencySE/elevators
+- C#: 
+
+Gör en egen Fork av den och dela med dig av den till oss. Gör den helst privat, eftersom det är flera som gör den här uppgiften och det inte är ett grupparbete.
+
+Det finns ett antal lösningar på den här uppgiften på att hitta på GitHub men anta att om ni hittar den, så har vi hittat den. ;)
 
