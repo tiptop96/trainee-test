@@ -27,7 +27,7 @@ Din uppgift är att genomföra en Code Review och ge feedback på koden. Vad sku
 Din andra uppgift är att impementera en egen Stack. Du hittar interfacet som ska implementeras i [del2/Stack.java].
 
 
-Lösningarna på del 1 och 2 görs genom att göra en Fork på det här repot och spara dina lösningar under rätt Solution. När du är klar, skicka en Merge Request till oss.
+Lösningarna på del 1 och 2 görs genom att göra en Fork på det här repot och spara dina lösningar under rätt Solution. När du är klar, skapar du en Merge Request till oss i vårt repo.
 
 ## Del 3 - Programmeringsuppgift
 
