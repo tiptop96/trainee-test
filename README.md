@@ -4,7 +4,7 @@ Hej och välkommen till den tekniska testdelen av antagningsprocessen för One T
 
 Testet består av 3 olika delar:
 
-## Del 1 - Alogritmer
+## Del 1 - Algoritmer
 
 För den första delen kommer vi att använda oss av Hacker Rank (https://www.hackerrank.com). Skapa ett konto där och lös följande uppgifter.
 
@@ -41,4 +41,7 @@ Gör en egen Fork av den och dela med dig av den till oss. Gör den helst privat
 Det finns ett antal lösningar på den här uppgiften på att hitta på GitHub men anta att om ni hittar den, så har vi hittat den. ;)
 
 Vår förväntning är att du skriver kod som du själv skulle vilja läsa och förvalta.
+
+
+### Testning av merge request
 
