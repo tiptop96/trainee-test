@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry excluding="staricase/|fullcount/" kind="src" path="del1/src"/>
+	<classpathentry kind="src" path="del1/src/fullcount"/>
+	<classpathentry kind="src" path="del1/src/staricase"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
