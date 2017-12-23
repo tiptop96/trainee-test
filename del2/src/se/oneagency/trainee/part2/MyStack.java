@@ -54,8 +54,13 @@ public class MyStack<T> implements Stack<T> {
 
 	@Override
 	public T access(T item) {
-		// TODO Auto-generated method stub
-		return null;
+		while(stackpointer > 0){
+            T tmpItem = pop();
+            if(item.equals(tmpItem)){
+                return tmpItem;
+            }
+        }
+        throw new IllegalArgumentException("Could not find the item on the stack:" + item);
 	}
 	
 	public void maintainCapacity() {
